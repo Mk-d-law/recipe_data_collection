@@ -418,34 +418,4 @@ DB_PASSWORD=yourpass      # Database password
 DB_NAME=securin           # Database name
 ```
 
-## 🤝 Contributing
 
-Contributions are welcome! Please feel free to submit a Pull Request.
-
-1. Fork the project
-2. Create your feature branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
-
-## 📝 License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-
-## 🙋 Support
-
-For issues, questions, or contributions:
-
-- Check the [FastAPI Documentation](https://fastapi.tiangolo.com/)
-- Visit the interactive API docs at `/docs`
-- Open an issue on GitHub
-
-## 📞 Contact
-
-Your Name - [@yourtwitter](https://twitter.com/yourtwitter)
-
-Project Link: [https://github.com/yourusername/recipe-management-system](https://github.com/yourusername/recipe-management-system)
-
----
-
-**Built with ❤️ using FastAPI and vanilla JavaScript**
